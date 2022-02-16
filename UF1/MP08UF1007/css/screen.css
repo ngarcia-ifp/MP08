@@ -1,0 +1,352 @@
+/*#371BB1 lila
+lightgrey
+white
+#05F4B7 turquesa
+#12151F casi negro*/
+
+body{
+	background: linear-gradient(90deg, rgba(18,18,18,1) 2%, rgba(17,255,194,1) 50%, rgba(18,21,31,1) 91%);
+	font-family: 'Encode Sans SC', sans-serif;
+	font-family: 'Goldman', cursive;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-family:'Montserrat', sans-serif;
+	font-size: 0.9em;
+	color: white;
+	text-align: left; 
+}
+
+
+nav{
+	background-color: #12151F;
+	height: 50px;
+	text-align:center;
+	z-index: 4;
+	padding: 0px 20px 0px 20px;
+  	
+}
+
+nav ul{
+	list-style-type: none;
+    display: inline-block;
+    /*vertical-align: top;*/
+    height: 30px;
+    
+}
+
+nav ul li{
+	display: inline-block;
+    font-size: 16px;
+    font-family: font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: lightgrey;
+    padding: 20px 15px 14px 15px;
+    margin: -17px 10px 10px 10px;
+}
+
+nav ul li a{
+	color:lightgrey;
+}
+
+nav ul li a:visited{
+	color:lightgrey;
+	text-decoration: none;
+}
+
+nav ul li a:hover{
+	color:white;
+}
+
+nav ul li:hover{
+	background-color: #05F4B7;
+	transition: all 0.7s;
+}
+
+article h2, h3 a, h4{
+	padding: 10px 10px 10px 0px;
+	position: absolute;
+	display: block;
+	margin-left: 180px;
+	
+}
+
+h3 a, h4{
+	color:#12151F;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+	font-family: 'Goldman', cursive;
+	font-size: 3em;
+	top: 55px;
+	color:#371BB1;
+	text-transform: uppercase;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+h3{
+	padding-top:60px;
+}
+
+h4{
+	padding-top: 100px;
+}
+
+
+h5 img{
+	width: 131px;
+	margin: 0 0 0 10px;    
+}
+
+/*h5{
+	width: 100px;
+	height: 100px;
+	background-image: url();
+	background-size: cover;
+}
+*/
+
+
+article ul li {
+	list-style-type: none;
+	margin: 0;
+	position: absolute;
+	/*position: relative;*//*si ho deixo en relative no em fa el display
+	inline-block*/
+	/*display: inline-block;*/
+	text-align: right;
+	/*float: left;*/
+	padding: 15px  15px 15px 800px;
+}
+
+
+article ul li img{
+	width: 70px;
+	float: left;
+}
+
+.mac img{
+	width: 130px;
+}
+
+.lin img{
+	width: 120px;
+}
+
+.and{
+	padding-left: 915px;
+}
+
+.mac{
+	padding-left: 998px;
+	padding-top: 7px;
+}
+
+.win{
+	padding-left: 1145px;
+	padding-top: 33px;
+}
+
+.lin{
+	padding-left: 1237px;
+	padding-top: 5px;
+}
+
+.nuvol{
+	padding-left: 1380px;
+	padding-top: 35px;
+}
+
+
+
+.blackberry{
+	padding-left: 1512px;
+	padding-top: 24px;
+}
+
+
+article{
+	background-color: lightgrey;
+	display: flex;
+	height:850px ;
+	margin-top: 30px;
+}
+
+
+
+h6{
+	margin: 10px 5px;
+	color: white;
+	font-family: 'Encode Sans SC', sans-serif;
+}
+
+
+.plataformes ul li{
+	background-color: red;
+	padding-left: 18px;
+	display: inline-block;
+	position: absolute;
+	margin-left: 500px;
+}
+
+div{
+	margin: 160px 10px 20px 0px;
+	/*width: 400px;*/
+	height: 600px;
+	background-color: ;
+	border-radius: 25px;	
+}
+
+
+.funcionalitats, .captures, .finançament, .companyia, .alternatives, .valoracio{
+	padding:10px;
+	display: inline-block;
+	margin: 150px 10px 20px, 0px;
+    width: 400px;
+   	height: 640px;
+   	background-color: #12151F;
+    border-radius: 25px;
+    box-shadow: black -5px 5px 5px;
+}
+
+.funcionalitats{
+	margin-left: 30px;
+}
+
+
+.captures img {
+	width: 400px;
+	height: 250px;
+	padding-top: 10px;
+	margin:0 auto;
+
+}
+
+.captures h6{
+	text-align: center;
+}
+
+
+
+
+#avantatges, #inconvenients{
+	background-color: lightgrey;
+	/*width: 390px;*/
+	height: 300px;
+	/*margin: 0px, 5px, 0px, 5px;*/
+	/*margin-top: -30px;*/
+	margin-top: 0px;
+	margin-right: 5px;
+
+}
+
+.valoracio h6{
+	margin-top: 0px;
+	text-align: center;
+	color:#371BB1;
+}
+
+.valoracio p{
+	color: black;
+	font-weight: bolder;
+	margin: 10px;
+	
+}
+
+article:nth-of-type(2) h2{
+	margin-top: 922px ;
+}
+
+/*article:nth-of-type(2) .funcionalitats, .captures, .finançament, .companyia, .alternatives, .valoracio{
+	height: 903px;
+} HO COMENTO PERQUÈ NO M'HO AGAFA SI NO HO POSO INLINE :( */
+
+article:nth-of-type(2) .captures img:first-of-type{
+	width: 280px;
+	height: 300px;
+	margin-left: 60px;
+}
+
+article .alternatives li{
+	display: block;
+	list-style-type: disc;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 1.2em; 
+	padding: 15px 15px 15px 0;
+	position: relative;
+	text-align: left;
+
+}
+
+
+article:nth-of-type(2) {
+ 	height:1104px;
+}
+
+/*.funcionalitats:nth-of-type(2){
+	height:888px;
+}*/
+
+
+/*article:nth-of-type(2) .valoracio #avantatges, #inconvenients{
+	height: 390px;
+}*/
+
+
+/*article:nth-of-type(2) #avantatges, #inconvenients{
+	height: 433px;
+}*/
+
+
+article:nth-of-type(3) h2{
+	margin-top: 2055px ;
+}
+
+article:nth-of-type(3) h5 img{
+	height: 119px;
+	width: 122px;
+	margin-left: 16px;
+}
+
+article:nth-of-type(4) h2{
+	margin-top: 2937px ;
+}
+
+article:nth-of-type(4) h5 img{
+	height: 123px;
+	width: 170px;
+	
+}
+
+
+
+.torna{
+  font-family: "Font Awesome"; font-weight: 160;
+  height: 75px;
+  width: 75px;
+  background-color: #12151F;
+  position: fixed;
+  bottom: 50px;
+  right: 60px;
+  border-radius: 50px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  line-height: 95px;
+  box-shadow: black -10px 10px 10px;
+}
+
+.torna:hover{
+	color: #05F4B7;
+	font-size: 45px;
+}

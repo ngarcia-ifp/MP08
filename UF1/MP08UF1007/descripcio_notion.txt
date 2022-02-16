@@ -1,0 +1,83 @@
+NOTION https://www.notion.so/es-es
+
+QUÉ ES
+
+organizador de tareas multiplataforma que te permite llevar tu planificación personal y laboral
+conectado a internet o no, en desktop o desde el celular, podrás apuntar y organizar todo lo que se te ocurra y colaborar con quienes necesites.
+Para crear un usuario, solo necesitas conectarte con un correo electrónico o con tu cuenta de Google.
+Esto permitirá que, independientemente del dispositivo con el que te conectes, tu información pueda estar sincronizada.
+
+
+FUNCIONALITATS
+
+eina/ espai de treball per a crear/organitzar:
+-llistes d'idees
+-llistes de tasques
+-control de calendaris
+-organització de projectes
+-fer taules de control de gastos
+-ordenar tota la info en taules, bases de dades, wikis o entrades
+
+Notion te permite agregar filtros de navegación y encontrar todo rápidamente.
+
+puedes adicionar páginas y subpáginas y organizarlas a tu antojo, como las carpetas de tu computadora.
+
+visualizar de forma ordenada todo lo que necesitas hacer en el trabajo y en tu día a día. Es, en definitiva, una de las mejores herramientas de gestión de proyectos.
+-Permet compartir tu contenido con otros usuarios de la aplicación o con personas externas, igual que Dropbox.
+Aunque estés sin conexión a internet, el programa te permite seguir editando desde tu laptop y sincroniza la información nueva cuando vuelvas a estar online.
+
+en resum:
+eina d'organització de treball i millora de productivitat.
+solución multiplataforma, minimalista y versátil per a organitzar projectes i/o la vida en general
+
+COST/FINANÇAMENT
+
+existe una versión gratuita. Sin embargo, si quieres acceder a las opciones premium que la plataforma tiene para ti, puedes pagar $4 al mes para uso personal. 
+
+Si deseas trabajar con Notion con tu equipo y acceder a herramientas de administración,
+debes pagar $8 al mes por cada miembro o contactar al departamento de ventas para un presupuesto personalizado para tu empresa.
+
+	-NOTION PER A EMPRESES:
+	Con una suscripción de pago mensual o anual, Notion ofrece funcionalidades adicionales para la colaboración entre equipos. Si, por ejemplo, añades un presupuesto privado y,
+	además, quieres adicionar las tareas de tu equipo, puedes colocar cada contenido en páginas independientes con restricción de acceso.
+
+
+COMPANYIA
+
+Notion Labs, que es como se llama la startup detrás de Notion, fue fundada en 2013 por Ivan Zhao. Su sede está en San Francisco y actualmente tiene 56 empleados
+Su crecimiento ha sido bastante interesante, hasta el punto de que a finales de 2019 la empresa consiguió reunir su primer millón de usuario.
+Por aquel entonces, su valoración ya era de 800 millones de dólares.
+Para conmemorar este hito, Notion creó un plan gratuito para estudiantes sin limitaciones, un movimiento pensado para favorecer la educación a distancia,
+pero también una estrategia agresiva de crecimiento.
+Notion es una empresa muy bien valorada por los inversores de riesgo, a pesar de en un primer momento era algo reticente. De hecho, entre los inversores que han invertido en la compañía se encuentran Shana Fisher, inversora de Pinterest; Naval Ravikant, inversor de Twitter y Uber;
+Ram Shriram, de Google, o Mike Vernal, ex vicepresidente de plataformas de Facebook. A este capital hay que sumarle los ingresos de las suscripciones tanto personales como corporativas.
+Actualmente tiene clientes en los principales mercados, como Rusia, Japón o Alemania, y hasta hay empresas, como Metalab, con 140 empleados, que ha sustituido todo su flujo de trabajo (basado en 12 herramientas como Trello o Google Docs) por Notion.
+ahora está valorada en 2.000 millones de dólares, la compañía acaba de lanzar un nuevo plan gratuito
+
+
+
+ALTERNATIVES/COMPETÈNCIA
+
+-Joplin
+-TiddlyWiki (només Web)
+-Typora (només web??)
+-Obsidian
+Competència real: Joplin/Obsidian? Perquè...
+
+
+ÚS/AVANTATGES-INCONVENIENTS
+
+-avantatges:
+plataforma "de col.laboracio"
+
+
+
+
+
+
+
+
+
+
+
+

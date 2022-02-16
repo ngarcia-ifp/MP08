@@ -1,0 +1,79 @@
+body{
+  font-size: 16px;
+
+}
+
+
+div{
+
+
+  background-color: lightgreen;
+  height: 10em;
+  width: 10em;
+  background-size: cover;
+  background-position: center;
+
+}
+
+
+/* p:first-child{
+  color: red;
+} */
+
+
+.flotatE{
+  float: left;
+  margin: 0 1em 1em 0; /* 1em=1quadratí () */
+  background-image: url(../img/lotus.jpeg);
+  background-size: 100% 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+.flotatR{
+  float: right;
+  margin: 0 0 1em 1em;
+  background-image: url(../img/lotus.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+
+.capitular{
+  float: left;
+  margin: 0 1em 1em 0;
+  background-image: url(../img/L.jpeg);
+  background-size: 100% 100%;
+  width: 2em;
+  height: 2.2em;
+
+}
+
+
+h2{
+  clear: both;
+}
+
+span{
+  color: red;
+  /* visibility: hidden; */
+  display: none;
+}
+
+.columna{
+  
+  width: 40%;
+  margin:0 5%;
+  background-color: orange;
+
+}
+
+.Esquerra{
+  float: left;
+}
+
+.Dreta{
+  float:right;
+}

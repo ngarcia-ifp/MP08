@@ -1,0 +1,47 @@
+FUNCIONALITATS. disponible:  Linux, Windows, Mac; Android,  iOs + iCloud.
+app de notes, escriptura i presentacions.
+Permet crear diagrames, importar arxius.
+Es basa en documents amb sintaxi <i>Markdown</i>, la qual cosa significa que és una eina versàtil ja que las notes que creis, es podran obrir i editar amb qualsevol tipus d'app que suporti aquest llenguatge
+També suporta altres elements addicionals, fora del <i>Markdown</i>, a més d'expressions matemàtiques.
+
+SINCRONITZACIÓ
+Obsidyan Sync: servei a contractar "a part" per 4$ mensuals. Sincronitza la info en diferents dispositius (PC, mòbil, tablet) i també encripta els arxius.
+
+EINA DE COL.LABORACIÓ
+servei a contractar "a part", si es vol incorporar aquesta funcionalitat al programa.
+
+ORGANITZACIÓ "en bòveda":
+L'app guarda la informació "en bòvedes" i l'usuari organitza la informació/notes en subcarpetes, permetent entrellaçar-les, amb la qual cosa s'acosnegueix una acessibilitat més fàcil a les notes d'ús més freqüent.
+
+EXPORTACIÓ DE NOTES
+Permet publicar a diversos serveis web des de la pròpia app, 
+permetent usar estils CSS per a personalitzar el resultat i previsualitzar-ne el resultat si es vol fer una presentació.
+
+EXPANDIR L'APP AMB PLUGINS gratuïts
+L'usuari pot descarregar i fer ús (ex.: comandaments de teclat que faciliten i enriqueixen l'us de l'aplicació)
+de diferents plugins (molts d'ells creats per altres usuaris d'Obsidian) en funció de les necessitats de cada usuari.
+
+No és una eina "web", sinó que s'usa localment. 
+
+
+FINANÇAMENT
+
+
+
+COMPANYIA
+
+El projecte "Obsidian" va ser creat durant la quarentena covid ( any 2020) per un equip de dos desenvolupadors treballadors de l'empresa Dynalist des de l'any 2015,
+i que ja havien treballat junts en més de deu projectes: el backend/enginyer de software Shida Li, ex-treballador de <i>Dropbox</i>, <i>Linkedin</i> i <i>Minecraft</i>, i la frontend i especialista en UI, Erica Xu,
+que prèviament havia treballat en plataformes com <i>Quizlet</i>.
+Tot va començar quan Erica, insatisfeta amb la seva experiència en l'ús d'altres aplicacions de notes com <i>Tiddlywiki</i> o <i>TheBrain</i>, va imaginar una app de notes que funcionés realment com un "segon cervell"
+i, a més, fos súper extensible. De fet, molts usuaris ja fan referència a aquesta aplicació com a "segon cervell", ja que el gràfic de les anotacions es presenta
+com si fossin realment idees i pensaments dins del nostre cervell. La idea, llavors, va ser crear una app que funciona com un "frontend" súper potent,
+el qual entén el codi introduït per l'usuari, així com també aprèn diferents variables i funcions que aquest utilitza més freqüentment, proposant-li funcions a mida que es va "escrivint";
+d'aquesta manera, es facilita molt la navegació en l'app i l'aprofitament de totes les seves possibilitats, facilitant la feina de l'usuari. 
+
+
+ALTERNATIVES
+
+
+VALORACIÓ
+AVANTATGES/INCONVENIENTS

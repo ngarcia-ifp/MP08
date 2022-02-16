@@ -1,0 +1,45 @@
+div {
+  width: 5em; /*5em= 5 x punts de tipografia/ tamany lletra */
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.segon {
+  background-color: lightblue;
+  height: 5em;
+  width: 30%;
+  margin: 1.6%;
+  font-size: 3em;
+  float: left;
+}
+
+
+h2 {
+  clear: both;
+}
+
+
+.contenidor {
+  background-color: yellow;
+  overflow: hidden;
+  width: 63em;
+  margin: 0 auto;
+}
+
+
+.tercer {
+  background-color: blue;
+  float: left;
+  margin: 1em;
+  width: 5em;
+  font-size: 3em;
+}
+
+
+.primer {
+  float: left;
+  font-size: 3em;
+  width: 5em;
+  margin: 1em;
+  background-color: tomato; /*rgb(156, 48, 190)*/
+}

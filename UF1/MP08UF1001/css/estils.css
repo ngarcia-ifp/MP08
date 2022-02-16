@@ -1,0 +1,173 @@
+
+body{
+  background-color: purple;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666;
+  font-size: 13px;
+
+
+}
+
+
+h1{
+  color:;
+  background-color: ;
+  margin: 0;
+  width: 390px;
+  padding: 30px;
+  text-align: center;
+
+}
+
+
+p {
+  background-color:  ;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  width: 390px;
+  /* padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px; */
+  /* padding: 0px 30px 0px 30px; */
+  padding: 0 30px; /*(marges verticals/marges horitzontals)*/
+  text-indent: 18px;
+  /*text-align: justify;*/
+}
+
+/*a:link{
+color: black;
+  }
+a:hover {
+  color: black;
+}
+a:active{
+  color: black;
+}
+a:visited{
+  color: black;
+  }*/
+
+ul{
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+  height: 30px;
+  text-align: right;
+
+}
+
+li{
+  list-style-type: none;
+  background-color: ;
+  font-size: 16px;
+  font-weight: bolder;
+  color: #666;
+  /*margin: 10px 0 0 0;*/
+  margin: 0 10px;
+  display: inline-block;
+  padding: 7px;
+  border: 1px ;
+
+}
+
+li:hover{
+  background-color: #6C3
+  /* color: #fff; */
+}
+
+
+div{
+  background-repeat: no-repeat;
+  background-position: 400px 0;
+}
+
+
+#descarrega img{
+  padding: 30px;
+}
+
+
+.blanca {
+  background-color: #FFF;
+  height:;
+
+}
+
+.verda{
+  background-color: #6C3;
+  height: 550px;
+  width:
+}
+
+.clara{
+  background-color: #EEECEE;
+}
+
+.fosca{
+  background-color: #333;
+}
+
+#menu{
+  height:40px;
+}
+
+#coneix{
+  background-image:url(../img/img-hero-full-list.png);
+
+}
+
+#tot{
+  height: 641px;
+  background-image:url(../img/allinone.jpg);
+
+}
+
+#util{
+  height: 500px;
+  background-image:url(../img/curator-short.png);
+
+}
+
+#rapid{
+  height: 550px;
+  background-image:url(../img/img-hero-full-list.png);
+
+}
+
+
+#facil{
+  height: 550px;
+  background-image:url(../img/mobile-share.png);
+  background-position: 400px 15px;
+}
+
+#arreu{
+  height: 550px;
+  background-image:url(../img/anywhere.png);
+
+}
+
+
+
+#descarrega {
+  height: 200px;
+  text-align: center;
+}
+
+.torna{
+  height: 100px;
+  width: 100px;
+  background-color: yellowgreen;
+  position: fixed;
+  bottom: 100px;
+  right: 100px;
+  border-radius: 50px;
+  font-size: 60px;
+  text-align: center;
+  line-height: 120px;
+  box-shadow: black -10px 10px 10px;
+}

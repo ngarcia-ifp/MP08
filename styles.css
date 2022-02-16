@@ -1,0 +1,29 @@
+
+body{
+  background-color: lightblue;
+}
+
+@media screen and (min-width:960px){
+  body{
+    background-color: lightgreen;
+  }
+
+  ul li ul a{
+    display: block;
+
+
+  }
+
+  ul li ul{
+    clear: both;
+  }
+
+  .feedly{
+    background-image: url(img/MP08UF1001.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+    width: 60px;
+    height: 60px;
+  }
+}
