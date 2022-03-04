@@ -7,17 +7,21 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>PORTFOLI</title>
   <link rel="stylesheet" href="styles.css">
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Montserrat&family=Playfair+Display&display=swap"
+rel="stylesheet">
+ <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
+
   <nav>
-
-
    <ul class="activitats">
      <li class="uf1">UF1
+
        <ul class="interior">
          <li><a href="UF1/MP08UF1E1/index.html">Examen</a></li>
-         <li class="feedly"><a href="UF1/MP08UF1001/index.html">Activitat 1</a></li>
+         <li><a href="UF1/MP08UF1001/index.html">Activitat 1</a></li>
          <li><a href="UF1/MP08UF1002/index.html">Activitat 2</a></li>
          <li><a href="UF1/MP08UF1003/index.html">Activitat 3</a></li>
          <li><a href="UF1/MP08UF1004/index.html">Activitat 4</a></li>
@@ -30,7 +34,7 @@
      </li>
 
      <li class="uf2">UF2
-       <ul class="interior">
+       <!-- <ul class="interior">
          <li><a href="UF1/MP08UF2001/index.html">Activitat 1</a></li>
          <li><a href="UF1/MP08UF002/index.html">Activitat 2</a></li>
          <li><a href="UF1/MP08UF003/index.html">Activitat 3</a></li>
@@ -38,11 +42,11 @@
          <li><a href="UF1/MP08UF005/index.html">Activitat 5</a></li>
          <li><a href="UF1/MP08UF006/index.html">Activitat 6</a></li>
          <li><a href="UF1/MP08UF007/index.html">Activitat 7</a></li>
-       </ul>
+       </ul> -->
      </li>
 
      <li class="uf3">UF3
-       <ul class="interior">
+       <!-- <ul class="interior">
          <li><a href="UF1/MP08UF001/index.html">Activitat 1</a></li>
          <li><a href="UF1/MP08UF002/index.html">Activitat 2</a></li>
          <li><a href="UF1/MP08UF003/index.html">Activitat 3</a></li>
@@ -50,37 +54,54 @@
          <li><a href="UF1/MP08UF005/index.html">Activitat 5</a></li>
          <li><a href="UF1/MP08UF006/index.html">Activitat 6</a></li>
          <li><a href="UF1/MP08UF007/index.html">Activitat 7</a></li>
-       </ul>
+       </ul> -->
      </li>
 
      <li class="uf4">UF4
        <ul class="interior">
-         <li><a href="UF1/MP08UF4001/index.html">Activitat 1</a></li>
-         <li><a href="UF1/MP08UF4001/index.html">Activitat 1</a></li>
-
-
+         <li><a href="UF1/MP08UF4001/index.html">Responsive</a></li>
        </ul>
 
      </li>
 
     </ul>
 
-
-
   </nav>
 
-  <h1>Nàdia</h1>
+<div class="contenidor">
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-  Quos cupiditate at laudantium soluta doloremque, omnis ea quod unde
-  reiciendis sed est, similique sint, blanditiis! Illo molestiae architecto
-  minima quibusdam natus?</p>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ1"><img src="img/examen.png"/></div>
+  <div class="fotos"  data-aos="fade-up" data-aos-once="false" id="activ2"><img src="img/feedly.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ3"><img src="img/escacs.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ4"><img src="img/apps.png"/></div>
+  <div class="fotos" data-aos="fade-up" data-aos-once="false" id="activ5"><img src="img/floatA.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ6"><img src="img/floatB.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ7"><img src="img/floatC.png"/></div>
+  <div class="fotos" data-aos="fade-up" data-aos-once="false" id="activ8"><img src="img/floreta.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ9"><img src="img/retrat.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ10"><img src="img/responsive.png"/></div>
+  <div class="fotos" data-aos="fade-down" data-aos-once="false" id="activ10"><img src="img/absolute.png"/></div>
 
+</div>
 
+  <p>Disseny Web</p>
+  <p>Curs 2021-2022</p>
 
+  <h1>Portfoli</h1>
+
+<!-- SCRIPT AL SCROLL -->
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+ <script>
+   AOS.init({
+     duration:1000,
+     once:false,
+     mirror:true,
+     delay:50,
+     easing:'ease-in-out-quart',
+   });
+
+ </script>
 
 </body>
 
 </html>
-
-<!-- whatismyviewport! -->
