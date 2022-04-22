@@ -1,0 +1,94 @@
+body{
+	color:black;
+	font-family: Helvetica, Arial, Sans-Serif;
+	background: linear-gradient(45deg, rgba(255,192,203,1) 0%, rgba(255,255,240,1) 100%);
+	margin:0 20px;
+}
+
+span{
+	color:grey;
+}
+
+h1{
+	text-align: center;
+	font-size: 4em;
+}
+
+.fitxa{
+	
+	height: 240px;
+	background-image: cover;
+	background-color: white;
+	margin:10px;
+	float: left;
+	position: relative;
+
+}
+
+.fitxa img{
+	height: 200px;
+	width: 300;
+	transition: 0.3s all;
+}
+
+.fitxa img:hover{
+	transform:rotateY(360deg);
+	opacity: 0.5;
+}
+
+footer{
+	height: 220px;
+	float: none;
+	clear: both;
+}
+
+h2{
+	color:grey;
+	text-align: left;
+	font-size: 1em;
+	position: relative;
+	top: 0;
+}
+
+@media screen and(min-width: 960px){
+
+.animacio{
+	height: 589px;
+	width: 600px;
+	justify-content: center;
+	margin-left: 300px;
+}
+
+
+.animacio img{
+	background-size: cover;
+}
+
+
+footer{
+	text-align: center;
+	margin-left: 550px;
+}
+
+
+
+@media screen and (max-width: 350px){
+	.animacio img{
+		width:200px;
+		background-size: cover;
+	}
+
+
+	.fitxa {
+		float: none;
+		display: block;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	.footer img{
+		margin-left: 50px;
+	}
+
+
+}
